@@ -1,7 +1,18 @@
-# Tarea 1
+# Índice de felicidad de los paises en el año 2019
 
 ## ¿Por qué esta base de datos?
-La base de datos que elegí para manejar en este periodo es _, ya que...
+La base de datos que elegí la tomé de la plataforma "kaggle", esta indica el nivel de felicidad de la mayoría de los paises en el mundo. Me pareció muy interesante, ya que esta muestra diferentes factores que posiblemente pueden llegar a indicar el que varios factores del día a día pueden llegar a perjudicar o beneficiar el nivel de felicidad de los habitantes. Dentro de los datos, podemos encontrar algunos que a simple vista puede parecer muy lógico que influyan de manera directa en este índice y otros que posiblemente no estén relacionados. Mi interés con estos datos es poder manejar la información que sea de utilidad y descartar aquellos datos que no son relevantes. Las columnas que maneja esta base son:
+    * Posición en la tabla
+    * Nombre del país
+    * Puntuación
+    * PIB per cápita
+    * Apoyo social
+    * Expectativa de vida saludable
+    * Libertad para tomar decisiones de vida
+    * Generosidad
+    * Percepción de corrupción
+
+A simple vista y sin nungún tipo de proceso podría asumir que los datos que van a afectar más la puntuación de cada país son el apoyo social, la expectativa de vida saludable y la libertar para tomar decisiones de vida. Pero me interesa saber si algún otro influye de gran manera y también si mi predicción es acertada o errónea.
 
 ## ¿Por qué elegí MySQL para trabajar?
 Primero que nada, nunca he estado en contacto con SQL y desde hace tiempo era de mi interés poder desarrollar este lenguaje para implementarlo en mi área de trabajo o encontrar un trabajo aún mejor. Tengo entendido que MySQL es el SGBD más común y por eso mismo siento que será más sencillo poder buscar información cuando me presente dudas en mi trabajo, además de que será el sistema que se estará explicando en este curso, por lo que me será más fácil replicar y entender lo que estaremos viendo en clase.
