@@ -1,4 +1,4 @@
-# Índice de felicidad de los paises en el año 2019
+# Data Science for COVID-19
 
 ## ¿Por qué esta base de datos?
 La base de datos que elegí la tomé de la plataforma "kaggle", esta indica el nivel de felicidad de la mayoría de los paises en el mundo. Me pareció muy interesante, ya que esta muestra diferentes factores que posiblemente pueden llegar a indicar el que varios factores del día a día pueden llegar a perjudicar o beneficiar el nivel de felicidad de los habitantes. Dentro de los datos, podemos encontrar algunos que a simple vista puede parecer muy lógico que influyan de manera directa en este índice y otros que posiblemente no estén relacionados. Mi interés con estos datos es poder manejar la información que sea de utilidad y descartar aquellos datos que no son relevantes. Las columnas que maneja esta base son:
@@ -34,7 +34,7 @@ Otro punto muy importante de el por qué utilizar este sistema, es que lo podemo
 
 ### Para la base de datos:
 
-Happiness Index 2018-2019. (2023, 14 abril). Kaggle. https://www.kaggle.com/datasets/sougatapramanick/happiness-index-2018-2019
+[NeurIPS 2020] Data Science for COVID-19 (DS4C). (2020, 13 julio). Kaggle. https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset
 
 ### Para la información acerca de MySQL:
 

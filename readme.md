@@ -5,3 +5,11 @@ Este repositorio lo estaré complementando con todos los trabajos y tareas que r
 
 ## Índice
 [Tarea 1](https://github.com/Andreschavezp/BDR/blob/master/Tarea%201.md)
+
+```mermaid
+flowchart LR
+    Entidad1
+    Entidad1 --- id1([Atributo])
+    Entidad1 --- id2([Atributo2])
+    Atributo --- papa{{dominio 1}}
+```
