@@ -1,0 +1,1 @@
+A continuación, inserto el Diagrama de Entidad Relación entre las distintas entidades de mi base de datos. Este diagrama fue creado utilizando la herramienta de diagrams.net.
