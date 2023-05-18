@@ -1,27 +1,21 @@
-# Data Science for COVID-19
+# Demo syscap
 
 ## ¿Por qué esta base de datos?
-La base de datos que elegí la tomé de la plataforma "kaggle", esta indica el nivel de felicidad de la mayoría de los paises en el mundo. Me pareció muy interesante, ya que esta muestra diferentes factores que posiblemente pueden llegar a indicar el que varios factores del día a día pueden llegar a perjudicar o beneficiar el nivel de felicidad de los habitantes. Dentro de los datos, podemos encontrar algunos que a simple vista puede parecer muy lógico que influyan de manera directa en este índice y otros que posiblemente no estén relacionados. Mi interés con estos datos es poder manejar la información que sea de utilidad y descartar aquellos datos que no son relevantes. Las columnas que maneja esta base son:
+La base de datos que elegí para este curso es de una base de datos que utilizaban en mi trabajo anteriormente. La empresa tiene un giro tecnológico. Es una fintech que ofrece un SaaS, el cual sirve para administrar, visualizar y generar reportes acerca de los pagarés que tienen las distintas entidades financieras o no financieras con sus inversionistas. En esta base de datos podemos encontrar algunas tablas, que son: 
 
-    * Posición en la tabla
+    * Inversionista
 
-    * Nombre del país
+    * Pagaré
 
-    * Puntuación
+    * Pagaré intereses
 
-    * PIB per cápita
+    * Resumen mensual
 
-    * Apoyo social
+    * Resumen mensual pagaré
 
-    * Expectativa de vida saludable
+    * Tipo pago intereses
 
-    * Libertad para tomar decisiones de vida
-
-    * Generosidad
-
-    * Percepción de corrupción
-
-A simple vista y sin nungún tipo de proceso podría asumir que los datos que van a afectar más la puntuación de cada país son el apoyo social, la expectativa de vida saludable y la libertar para tomar decisiones de vida. Pero me interesa saber si algún otro influye de gran manera y también si mi predicción es acertada o errónea.
+Es de mi interés poder trabajar con una base de datos que realmente conozco (o creo conocer), ya que además me encantaría poder encontrar información que quizá estemos pasando por alto o hasta desarrollar una nueva área en donde pueda utilizar los conocimientos adquiridos en este curso.
 
 ## ¿Por qué elegí MySQL para trabajar?
 Primero que nada, nunca he estado en contacto con SQL y desde hace tiempo era de mi interés poder desarrollar este lenguaje para implementarlo en mi área de trabajo o encontrar un trabajo aún mejor. Tengo entendido que MySQL es el SGBD más común y por eso mismo siento que será más sencillo poder buscar información cuando me presente dudas en mi trabajo, además de que será el sistema que se estará explicando en este curso, por lo que me será más fácil replicar y entender lo que estaremos viendo en clase.
@@ -31,10 +25,6 @@ También estuve leyendo que la información en este sistema está organizada de 
 Otro punto muy importante de el por qué utilizar este sistema, es que lo podemos encontrar gratuito y mencionan que es muy fácil de usar, lo cual creo que me puede servir como una muy buena herramienta para adentrarme en este mundo de la programación y eventualmente sea más fácil enriquecerme con otros lenguajes o sistemas para manejar la información digital.
 
 ## Fuentes
-
-### Para la base de datos:
-
-[NeurIPS 2020] Data Science for COVID-19 (DS4C). (2020, 13 julio). Kaggle. https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset
 
 ### Para la información acerca de MySQL:
 
