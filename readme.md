@@ -5,4 +5,4 @@ Este repositorio lo estaré complementando con todos los trabajos y tareas que r
 
 ## Índice
 [Tarea 1](https://github.com/Andreschavezp/BDR/blob/master/Tarea%201.md)
-[Tarea 2] ()
+[Tarea 2](https://github.com/Andreschavezp/BDR/blob/master/Diagrama%20Tarea%202.png)
