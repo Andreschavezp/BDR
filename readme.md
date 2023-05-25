@@ -9,3 +9,5 @@ Este repositorio lo estaré complementando con todos los trabajos y tareas que r
 [Tarea 2](https://github.com/Andreschavezp/BDR/blob/master/Diagrama%20Tarea%202.png):       Para esta tarea, utilicé el programa de google diagrams. Es una base de datos de mi trabajo (con datos de prueba). Intenté hacer una relación un poco más simplificada porque la base tenía muchos datos, pero no usaré algunos. Utilicé algunas notaciones vistas en clase, pero vi que había unos conectores en la aplicación y decidí también usarlos para ver si logré entenderlos bien. Cabe mencionar que para esta tarea me apoyó con algunas explicaciones una compañera encargada de las bases de datos de la empresa, entonces espero haber utilizado bien los conceptos de clase.
 
 [Tarea 3](https://github.com/Andreschavezp/BDR/blob/master/Tarea%203.md)
+[Diagrama tarea 3](https://github.com/Andreschavezp/BDR/blob/master/Diagrama%20tarea%203.pdf)
+[Operaciones tarea 3](https://github.com/Andreschavezp/BDR/blob/master/Operaciones%20tarea%203.png)
