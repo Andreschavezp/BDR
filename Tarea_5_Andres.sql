@@ -1,8 +1,3 @@
-DROP DATABASE IF EXISTS tarea5;
-
-CREATE DATABASE tarea5;
-
-USE tarea5;
 
 DROP TABLE IF EXISTS `inversionistas`;
 
@@ -118,7 +113,7 @@ INSERT INTO `inversionistas` (`id`, `nombre`, `apellido_paterno`, `apellido_mate
 INSERT INTO `inversionistas` (`id`, `nombre`, `apellido_paterno`, `apellido_materno`, `genero`, `CURP`, `correo`) VALUES ('98', 'Jesus', 'Niño', 'Adame', '2', '\"qwtm618948villwg2', 'jordi57@sotomares.com');
 INSERT INTO `inversionistas` (`id`, `nombre`, `apellido_paterno`, `apellido_materno`, `genero`, `CURP`, `correo`) VALUES ('99', 'Jordi', 'Robledo', 'Caro', '1', '\"uosd568952vomqgh6', 'mora.sandra@zaragozaanaya.com');
 INSERT INTO `inversionistas` (`id`, `nombre`, `apellido_paterno`, `apellido_materno`, `genero`, `CURP`, `correo`) VALUES ('100', 'Patricia', 'Escalante', 'Coronado', '2', '\"owxn916997bsooqj5', 'kesparza@montemayorgamboa.com');
-
+select * from inversionsitas;
 
 drop table if exists pagares;
 create table pagares (
