@@ -18,3 +18,7 @@ ALTER TABLE pagares DROP COLUMN id_pagare;
 
 -- Aquí solamente agregué una nueva columna con el id incrementando de nuevo
 -- ya que el id se había cortado y ya no tenía sentido el consecutivo.
+
+-- En lo personal, se me está haciendo muy complicado el aprendizaje de estas herramientas, ya que siento que perdí el
+-- ritmo que llevaba anteriormente. He estado buscando en internet y preguntando algunas dudas para poder resolver
+-- estos temas. Siento que aunque he aprendido, me falta mucha practica y seguir investigando para complementar los temas.
